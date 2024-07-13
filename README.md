@@ -25,3 +25,10 @@
 - Tailoring products to leverage these trends is beneficial.
 - Focusing on verified and financially stable customers can enhance performance.
 - Understanding regional variations can further enhance portfolio performance and customer satisfaction.
+
+
+### To access this project 
+
+- Clone this repository 
+- [Tableau] - (.twbx) open this file in tableau
+- [Power_BI] - (.pbix) open this file in power bi
